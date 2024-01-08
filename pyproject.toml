@@ -4,6 +4,8 @@ version = "0.1.0"
 description = "A simple config parser for python"
 authors = ["sokripon <sokripon@gmail.com>"]
 readme = "README.md"
+repository = "https://github.com/sokripon/sokconfig"
+homepage = "https://github.com/sokripon/sokconfig"
 packages = [{ include = "sokconfig" }]
 
 [tool.poetry.dependencies]
