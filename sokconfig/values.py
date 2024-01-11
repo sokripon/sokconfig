@@ -108,7 +108,7 @@ class FloatValue(Value):
         name: Optional[str] = None,
         description: Optional[str] = None,
     ):
-        self._value_type = int
+        self._value_type = float
         self._min_value = min_value
         self._max_value = max_value
         super().__init__(
