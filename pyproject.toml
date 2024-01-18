@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "sokconfig"
-version = "0.1.1"
+version = "1.0.0"
 description = "A simple config parser for python"
 authors = ["sokripon <sokripon@gmail.com>"]
 readme = "README.md"
